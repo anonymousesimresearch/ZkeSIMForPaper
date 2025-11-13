@@ -2,10 +2,6 @@
 
 This repository provides an overview of the Android Application implementation for the Zk-eSIM scheme. Specifically this repository provides a step-by-step process that the user will undertake when using the application. For a video walkthrough of the app, see [App walkthrough](App-walkthrough.mp4) file.
 
-<p align="center">
-<video src="App-walkthrough.mp4" width="320" height="240" controls></video>
-</p>
-
 ---
 ## 1. Home Page Activity
 
